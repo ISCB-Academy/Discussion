@@ -1,20 +1,15 @@
-# FIXME Tutorial Name
+# Planning and Discussion
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-FIXME description about the Tutorial
+This repo include planning, organising and discussion for the ISCB Academy 
 
-**Time/Date:** FIXME
 
 ## Contributing :hearts:
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
-- Please follow our [FIXME - contributing guidelines](https://github.com/ISCB-Academy/FIXME/blob/main/CONTRIBUTING.md). 
+- Please follow our [contributing guidelines](https://github.com/ISCB-Academy/Discussion/blob/main/CONTRIBUTING.md). 
 
-## Citation
-
-If you use any of teh materials of this lesson, please cite as:
-> FIXME
 
 ## License
 
